@@ -1,8 +1,12 @@
 Wordpress:
 https://es.wordpress.org/download/#download-install
-Temas para Wordpress:
-https://www.apachefriends.org/es/download.html
+
+Temas para Wordpress: (Punto de partida)
+https://wordpress.org/themes/hestia/
+https://wordpress.org/themes/education-zone/
+
 Plugin Calendario:
 https://es.wordpress.org/plugins/wp-simple-booking-calendar/
+
 Xampp:
 https://www.apachefriends.org/es/download.html
