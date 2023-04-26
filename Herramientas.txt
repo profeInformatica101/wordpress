@@ -1,0 +1,6 @@
+Wordpress:
+https://es.wordpress.org/download/#download-install
+Plugin Calendario:
+https://es.wordpress.org/plugins/wp-simple-booking-calendar/
+Xampp:
+https://www.apachefriends.org/es/download.html
