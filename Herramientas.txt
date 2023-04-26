@@ -10,3 +10,36 @@ https://es.wordpress.org/plugins/wp-simple-booking-calendar/
 
 Xampp:
 https://www.apachefriends.org/es/download.html
+
+Auditoria:
+https://www.wpdoctor.es/
+
+
+Existen varias alternativas a WP Doctor que ofrecen servicios de soporte y mantenimiento para sitios web basados en WordPress. Algunas de estas opciones incluyen:
+
+    WP Fixit (https://wpfixit.com/): WP Fixit ofrece servicios de soporte y reparación de WordPress, incluidos soluciones para problemas comunes de WordPress, limpieza de malware y optimización de velocidad del sitio.
+
+    WP Buffs (https://wpbuffs.com/): WP Buffs proporciona planes de soporte y mantenimiento de WordPress, incluyendo actualizaciones, monitoreo de seguridad, copias de seguridad, optimización de rendimiento y soporte técnico.
+
+    Maintainn (https://maintainn.com/): Maintainn ofrece servicios de mantenimiento de WordPress como actualizaciones semanales, copias de seguridad, monitoreo de seguridad, soporte y desarrollo personalizado.
+
+    WP Site Care (https://www.wpsitecare.com/): WP Site Care proporciona servicios de soporte técnico y mantenimiento de WordPress, incluyendo copias de seguridad diarias, actualizaciones, monitoreo de tiempo de actividad y soporte prioritario.
+
+    Valet.io (https://www.valet.io/): Valet ofrece soluciones de soporte y mantenimiento para WordPress, así como auditorías de sitios web, optimización de rendimiento y servicios de accesibilidad.
+
+    SiteGround (https://www.siteground.com/): SiteGround es un proveedor de alojamiento web que también ofrece servicios de soporte y mantenimiento para sitios web de WordPress.
+
+
+	Varios plugins de WordPress disponibles para gestionar citas y reservas en línea. Estos plugins pueden ser útiles si estás buscando una solución para gestionar citas previas en tu sitio web de WordPress.
+
+    Bookly (https://wordpress.org/plugins/bookly-responsive-appointment-booking-tool/): Bookly es un plugin de reservas y citas muy popular y fácil de usar. Viene con un potente panel de administración y es altamente personalizable. Permite a tus usuarios reservar citas fácilmente a través de un formulario de reserva en línea.
+
+    Amelia (https://wpamelia.com/): Amelia es otro plugin de WordPress para gestionar citas y reservas. Es fácil de usar y ofrece una amplia gama de características, incluyendo programación de citas, gestión de empleados, recordatorios por correo electrónico y SMS, y más.
+
+    WP Simple Booking Calendar (https://wordpress.org/plugins/wp-simple-booking-calendar/): Este plugin es ideal si necesitas una solución simple y rápida para mostrar la disponibilidad de citas en tu sitio web. Permite a tus visitantes ver la disponibilidad y reservar citas de forma sencilla.
+
+    Booked (https://codecanyon.net/item/booked-appointments-appointment-booking-for-wordpress/9466968): Booked es un plugin premium de WordPress que ofrece una solución completa para gestionar citas y reservas en línea. Ofrece características como calendarios personalizados, campos de formulario personalizados, recordatorios por correo electrónico y más.
+
+    Simply Schedule Appointments (https://wordpress.org/plugins/simply-schedule-appointments/): Simply Schedule Appointments es un plugin de citas fácil de usar y altamente personalizable. Ofrece integraciones con otros servicios populares, como Google Calendar y Mailchimp, y es compatible con formularios de contacto populares como WPForms y Gravity Forms.
+
+	
