@@ -5,7 +5,8 @@ Temas para Wordpress: (Punto de partida)
 https://wordpress.org/themes/hestia/
 https://wordpress.org/themes/education-zone/
 
-Plugin Gesti:
+Plugin reserva cita:
+https://help.calendly.com/hc/en-us/articles/223195568#how-to-embed-calendly-in-wordpress-0-0
 https://wordpress.org/plugins/ameliabooking
 https://es.wordpress.org/plugins/wp-simple-booking-calendar/
 
