@@ -2,6 +2,7 @@ Wordpress:
 https://es.wordpress.org/download/#download-install
 
 Temas para Wordpress: (Punto de partida)
+ASTRA
 https://wordpress.org/themes/hestia/
 https://wordpress.org/themes/education-zone/
 
